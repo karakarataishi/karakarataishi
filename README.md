@@ -1,16 +1,26 @@
-## Hi there 👋
+# 大貫 健
 
-<!--
-**karakarataishi/karakarataishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自己紹介
+-石川工業高等専門学校　電子情報工学科4年のカラカラ大使です
 
-Here are some ideas to get you started:
+## 実績
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AtCoder Highest Rating: 1087
+- パソコン甲子園予選突破
+
+## 使用技術
+
+- C
+- C++
+- Processing
+- Python
+- HTML
+- JavaScript
+- CSS
+- PHP
+
+
+## リンク
+
+- AtCoder: https://atcoder.jp/users/karakarataishi
+- Twitter: https://x.com/Alter_Penguin_
