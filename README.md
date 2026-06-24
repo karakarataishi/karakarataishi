@@ -1,27 +1,55 @@
-# 大貫 健
+# 大貫 健 (Takeru Ohnuki)
+
+石川工業高等専門学校 電子情報工学科 在学
 
 ## 自己紹介
-石川工業高等専門学校　電子情報工学科4年のカラカラ大使です
-趣味は競技プログラミングで、特にAtCoderに力を入れています。
+
+競技プログラミングや人工知能に興味を持ち、日々学習と開発に取り組んでいます。
+
+高専では電子情報工学を学んでおり、アルゴリズムやソフトウェア開発の知識を深めています。将来は技術を通して社会に貢献できるエンジニアになることを目標としています。
+
+## 興味分野
+
+* 競技プログラミング
+* アルゴリズム・データ構造
+* AI・機械学習
+* Webアプリケーション開発
 
 ## 実績
 
-- AtCoder Highest Rating: 1116
-- パソコン甲子園予選突破
+* AtCoder Highest Rating: 1116 (Algorithm 緑)
+* パソコン甲子園2025 予選突破（468チーム中32位以内）
+* ICPC参加予定
 
 ## 使用技術
 
-- C
-- C++
-- Processing
-- Python
-- HTML
-- JavaScript
-- CSS
-- PHP
+### 言語
+
+* C++
+* Python
+* JavaScript
+* PHP
+* HTML / CSS
+
+### ライブラリ・ツール
+
+* Git / GitHub
+* Linux
+* MySQL
+
+## 制作物
+
+### 4択クイズWebアプリ
+
+HTML、CSS、JavaScriptを用いて制作した4択クイズアプリケーションです。
+
+### NGワード監視システム
+
+PHPとMySQLを用いて制作したWebアプリケーションです。
 
 
-## リンク
+## Links
 
-- AtCoder: https://atcoder.jp/users/karakarataishi
-- Twitter: https://x.com/Alter_Penguin_
+* AtCoder: https://atcoder.jp/users/karakarataishi
+* GitHub: https://github.com/karakarataishi
+* X (競技プログラミング・学習記録): https://x.com/Alter_Penguin_
