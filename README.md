@@ -6,7 +6,7 @@
 
 ## 実績
 
-- AtCoder Highest Rating: 1087
+- AtCoder Highest Rating: 1116
 - パソコン甲子園予選突破
 
 ## 使用技術
