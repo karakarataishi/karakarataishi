@@ -42,6 +42,7 @@
 ### 自己紹介4択クイズWebアプリ
 
 HTML、CSS、JavaScriptを用いて制作した自己紹介4択クイズアプリケーションです。
+https://github.com/karakarataishi/self_introduction/tree/main
 
 ### NGワード監視システム
 
