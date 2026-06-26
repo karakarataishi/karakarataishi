@@ -43,9 +43,10 @@
 HTML、CSS、JavaScriptを用いて制作した自己紹介4択クイズアプリケーションです。
 https://github.com/karakarataishi/self_introduction/tree/main
 
-### NGワード監視システム
+### NGワード検索システム
 
-PHPとMySQLを用いて制作したWebアプリケーションです。
+勉強中の誘惑を減らすことを目的としたWebアプリです。親子アカウント機能を実装し、子ユーザごとにNGワードを管理できます。
+https://github.com/karakarataishi/ngword_search/tree/main
 
 
 ## Links
