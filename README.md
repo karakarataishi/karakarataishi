@@ -53,4 +53,4 @@ https://github.com/karakarataishi/ngword_search/tree/main
 
 * AtCoder: https://atcoder.jp/users/karakarataishi
 * GitHub: https://github.com/karakarataishi
-* X (競技プログラミング・学習記録): https://x.com/Alter_Penguin_
+* X: https://x.com/Alter_Penguin_
